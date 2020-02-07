@@ -17,6 +17,7 @@ public class TesteConfiguracao {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("terra");
+        System.out.println("De um trocado para o seu bruxo!");
     }
     
 }
