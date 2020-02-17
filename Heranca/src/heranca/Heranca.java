@@ -52,7 +52,7 @@ public class Heranca {
             System.out.println("Update!");
         }
 
-        //Saque com métodos da classe principal.
+        //Saque com método da classe principal.
         Account acc6 = new Account(1001, "Alex", 1000.00);
         acc6.withdraw(200.0);
         System.out.println("Saque: R$" + acc6.getBalance());
